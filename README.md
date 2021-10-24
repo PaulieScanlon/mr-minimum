@@ -6,7 +6,11 @@ The aim of this project is to get you up and running with Gatsby with the absolu
 
 IMO Gatsby Starters are step 3. Mr Minimum is step 0 😊
 
-## Install
+## 👀 Demo
+
+[https://mrminimum.gatsbyjs.io/](https://mrminimum.gatsbyjs.io/)
+
+## 🚀 Install
 
 ```sh
 yarn // npm install
@@ -40,7 +44,7 @@ yarn serve // npm run serve
 
 Open your browser and visit [http://localhost:8000](http://localhost:8000)
 
-## Next Steps
+## 🤔 Next Steps
 
 ### New Pages
 
